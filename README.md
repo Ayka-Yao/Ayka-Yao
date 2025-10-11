@@ -1,11 +1,13 @@
 ## Hi there 👋 I'm Jeric and I love using my brain.
 
 
-## Skills
-- Boxing
-- Basketball
-- Bike
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+## 🛠️ Tech Stack
+
+HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS • Node.js • Python
+
+## 🔧 Tools
+
+Git • Figma
 <!--
 **SumaiL-Hassan/SumaiL-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
