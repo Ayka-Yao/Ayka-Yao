@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jeric and I love using my brain.
+## Hi there 👋 I'm Jeric and I enjoy creating things that benefit and help others. Join me on my journey.
 
 
 ## 🛠️ Tech Stack
