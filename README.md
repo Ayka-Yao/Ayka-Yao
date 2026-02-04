@@ -1,4 +1,3 @@
-<img width="1916" height="891" alt="image" src="https://github.com/user-attachments/assets/0f8496ba-540d-4544-b5ed-928e6d9b8ba4" />
 <h1 align="center">Hi there 👋! I'm Jeric</h1>
 <p align="center"><b>Student from Bulacan PH</b></p>
 <h2 align="center">I enjoy creating things that benefit and help others. Join me on my journey.</h2>
