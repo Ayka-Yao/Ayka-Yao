@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋! I'm Jeric</h1>
 <p align="center"><b>Student from Bulacan PH</b></p>
-<h2 align="center">Join me on my journey.</h2>
+<h2 align="center">Claude AI Enjoyer.</h2>
+<!-- <h2 align="center">Join me on my journey.</h2> -->
 <!-- <h2 align="center">I enjoy creating things that benefit and help others. Join me on my journey.</h2> -->
 
 <br />
