@@ -1,4 +1,3 @@
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
 <h1 align="center">Hi there👋! I'm Jeric</h1>
 <p align="center"><b>Student from Bulacan PH</b></p>
 <h2 align="center">Claude AI Enjoyer.</h2>
